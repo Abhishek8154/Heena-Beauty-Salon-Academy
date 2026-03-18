@@ -1,0 +1,7 @@
+{
+  "name": "Heena Beauty Salon & Academy",
+  "description": "Premium Ladies Beauty Salon & Academy in Andheri East, Mumbai. Professional beauty treatments and certified beauty training courses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
